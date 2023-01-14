@@ -1,4 +1,5 @@
-#About ME#
+# About ME
 
-Hello! My name is Aurelia Audrey Kisanaga but please call me Audrey. 
-I major in ECE
+Hello! My name is Aurelia Audrey Kisanaga but please call me **Audrey**. 
+
+I major in Electrical and Computer Engineering in University of Washington and I am currently on my junior year 
