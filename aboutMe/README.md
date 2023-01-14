@@ -1,6 +1,6 @@
 # About ME
 
-<img src="IMG_0712.jpeg" alt="profile picture" width="200" border-radius="50%"/>
+<img src="IMG_0712.jpeg" alt="profile picture" width="200"/>
 
 Hello! My name is Aurelia Audrey Kisanaga but please call me **Audrey**. :smile:
 
